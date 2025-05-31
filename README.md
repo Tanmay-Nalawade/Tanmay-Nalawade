@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/4k-pantheon-wallpapers-screenshots-v0-7uy4ffe9ozne1.webp" alt="Hello world">
+<img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1937.WEBP" alt="Hello world">
