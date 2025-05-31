@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1937.WEBP" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
+</p>
