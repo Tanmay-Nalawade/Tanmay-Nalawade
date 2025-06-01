@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1937.WEBP" alt="Hello world">
+<img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1939.WEBP" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
