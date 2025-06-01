@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1939.WEBP" alt="Hello world">
+<!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Tanmay+Nalawade+!+👋" alt="Typing SVG" />
+</p>
+
+<!-- Profile caspian image -->
+<p align="center">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1939-2.WEBP" alt="Hello world" width="400">
+</p>
+
 
 <p align="center"> 
   Visitor count<br>
