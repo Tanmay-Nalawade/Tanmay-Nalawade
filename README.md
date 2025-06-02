@@ -21,13 +21,14 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
 
-<!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&color=28A745&lines=and+I+am+Tanmay+Nalawade+!+👋" alt="Typing SVG" />
-
-
 <!-- Profile caspian image -->
 <p align="center">
   <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/IMG_1939-2.WEBP" alt="Hello world">
 </p>
+
+<!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
+  <b><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&color=28A745&lines=And+I+am+Tanmay+Nalawade+!+👋" alt="Typing SVG" /></b>
+
+
 
 
