@@ -39,16 +39,37 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
-<p align="center"> 
   ## 👨‍💻 About Me
-</p>
-🎓 I’m currently pursuing my **Master’s in Data Science at the University of Arizona**, with a deep-rooted fascination for **deep learning** and the **inner workings of artificial intelligence**.
 
-🧠 While others see black-box models, I see a canvas where we teach machines to mimic the marvels of the human brain. I’m particularly driven by the challenge of building systems that **learn, adapt, and evolve — just like we do**.
+<div align="center">
 
-🛠️ I enjoy **working across the stack** — from **frontend frameworks** and **backend APIs** to **model deployment** and **data pipelines** — allowing me to bridge the gap between robust ML systems and real-world applications.
+<table>
+  <tr>
+    <td width="100%">
+      
+🎓 <strong>Graduate Student</strong>  
+I’m currently pursuing my <strong>Master’s in Data Science</strong> at the <strong>University of Arizona</strong> — driven by a deep fascination with <strong>deep learning</strong> and the mysteries of the human brain.
 
-🧩 Whether it’s **neural networks**, **generative AI**, or **cutting-edge research**, I love diving into the world where **math meets creativity**.
+---
+
+🧠 <strong>AI Enthusiast</strong>  
+Where others see black-box models, I see a <em>canvas</em> — a space to teach machines how to <strong>think, learn, and evolve</strong> like humans do.
+
+---
+
+🛠️ <strong>Full-Stack Explorer</strong>  
+From crafting intuitive <strong>frontend interfaces</strong>, building robust <strong>backend APIs</strong>, to deploying <strong>ML models</strong> and managing <strong>data pipelines</strong> — I enjoy working across the stack to bring intelligent systems to life.
+
+---
+
+🧩 <strong>Creative Technologist</strong>  
+Whether it’s <strong>neural networks</strong>, <strong>generative AI</strong>, or exploring the crossroads where <em>math meets creativity</em>, I’m always excited to push boundaries and explore what’s possible.
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 <!-- Profile caspian image -->
