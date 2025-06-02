@@ -77,16 +77,20 @@ Whether it’s <strong>neural networks</strong>, <strong>generative AI</strong>,
   <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Generated%20File%20June%2001%2C%202025%20-%209_18PM.gif" alt="Hello world">
 </p>
 
-<p align="center"> 
-  ## ☕ Get in Touch
-</p>
+## ☕ Get in Touch
+
+<div align="center">
+
 📫 **Email**: [tanmaynalawade1@gmail.com](mailto:tanmaynalawade1@gmail.com) | [tanmaynalawade@arizona.edu](mailto:tanmaynalawade@arizona.edu)  
 💼 **LinkedIn**: [linkedin.com/in/tanmay-nalawade](https://www.linkedin.com/in/tanmay-nalawade/)  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/Tanmay-Nalawade/)
+🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/Tanmay-Nalawade/)
 
-<p align="center"> 
-  ## 👀 P.S
-</p>
+</div>
+
+---
+
+## 👀 P.S
+
 > ⚡ *Outside of academics, I’m a tech enthusiast at heart — always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
 
 
