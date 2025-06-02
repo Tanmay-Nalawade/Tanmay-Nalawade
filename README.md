@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Profile cover image -->
 <p align="center">
-  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade.png" alt="Hello world" style="height:300px;">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade.png" alt="Hello world";">
 </p>
 
 <!-- Visitor count -->
@@ -28,18 +28,18 @@ Here are some ideas to get you started:
 
 <!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D70E&weight=700&lines=And+I+am+Tanmay+Nalawade+!+!+!👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D70E&center=true&vCenter=true&repeat=true&lines=And+I+am+Tanmay+Nalawade+!+!+!👋" alt="Typing SVG" />
 </p>
 
 <!-- One liner quote's to choose from -->
 <p align="center"> 
   <!-- Writing the code that powers tomorrow — whether it’s in the browser, the cloud, or a neural net.-->
-  ### 💬 *“A builder at heart — turning ideas into websites, insights, and intelligent systems.”*
+  <strong><em>💬 “A builder at heart — turning ideas into websites, insights, and intelligent systems.”</em></strong>
   <!-- Fascinated by minds, obsessed with machines — building neural networks that blur the line.-->
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
-  ## 👨‍💻 About Me
+<h2 align="center"> 👨‍💻 About Me</h2>
 
 <div align="center">
 
@@ -47,22 +47,22 @@ Here are some ideas to get you started:
   <tr>
     <td width="100%">
       
-🎓 <strong>Graduate Student</strong>  
+<p align="center"> 🎓 <strong>Graduate Student</strong></p>
 I’m currently pursuing my <strong>Master’s in Data Science</strong> at the <strong>University of Arizona</strong> — driven by a deep fascination with <strong>deep learning</strong> and the mysteries of the human brain.
 
 ---
 
-🧠 <strong>AI Enthusiast</strong>  
+<p align="center"> 🧠 <strong>AI Enthusiast</strong></p>
 Where others see black-box models, I see a <em>canvas</em> — a space to teach machines how to <strong>think, learn, and evolve</strong> like humans do.
 
 ---
 
-🛠️ <strong>Full-Stack Explorer</strong>  
+<p align="center"> 🛠️ <strong>Full-Stack Explorer</strong></p>
 From crafting intuitive <strong>frontend interfaces</strong>, building robust <strong>backend APIs</strong>, to deploying <strong>ML models</strong> and managing <strong>data pipelines</strong> — I enjoy working across the stack to bring intelligent systems to life.
 
 ---
 
-🧩 <strong>Creative Technologist</strong>  
+<p align="center"> 🧩 <strong>Creative Technologist</strong></p>  
 Whether it’s <strong>neural networks</strong>, <strong>generative AI</strong>, or exploring the crossroads where <em>math meets creativity</em>, I’m always excited to push boundaries and explore what’s possible.
 
     </td>
