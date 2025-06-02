@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 <!-- Profile cover image -->
 <p align="center">
-  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade.png" alt="Hello world">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade.png" alt="Hello world" style="height:300px;">
 </p>
 
 <!-- Visitor count -->
+<h2 align="center">📈 Visitor Count</h2>
 <p align="center"> 
-## 📈 Visitor Count
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
 
 <!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&color=28A745&lines=And+I+am+Tanmay+Nalawade+!+!+!👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D70E&weight=700&lines=And+I+am+Tanmay+Nalawade+!+!+!👋" alt="Typing SVG" />
 </p>
 
 <!-- One liner quote's to choose from -->
