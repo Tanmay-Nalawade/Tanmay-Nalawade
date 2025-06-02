@@ -21,6 +21,11 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
 
+<!-- Profile cover gif -->
+<p align="center">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade.gif" alt="Hello world">
+</p>
+
 <!-- Profile caspian image -->
 <p align="center">
   <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Generated%20File%20June%2001%2C%202025%20-%209_18PM.gif" alt="Hello world">
