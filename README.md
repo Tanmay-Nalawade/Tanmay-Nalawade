@@ -37,8 +37,9 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
-<h2 align="center"> 👨‍💻 About Me</h2>
+<!-- <h2 align="center"> 👨‍💻 About Me</h2> -->
 
+## 👨‍💻 About Me
 <div align="center">
 
 <table width="100%">
