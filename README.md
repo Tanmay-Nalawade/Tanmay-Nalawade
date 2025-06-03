@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Github%20main%20banner.png" alt="Hello world";">
 </p>
 
+
 <!-- Visitor count -->
-<h2 align="center">📈 And you are Visitor number:</h2>
+<h2 align="center" style="color:#2F855A; font-family:'League Spartan', 'Montserrat', sans-serif;">📈 And you are Visitor number:</h2>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
