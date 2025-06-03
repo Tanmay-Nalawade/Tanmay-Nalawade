@@ -21,14 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Visitor count -->
-<h2 align="center">📈 Visitor Count</h2>
+<h2 align="center">📈 And you are Visitor number:</h2>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
-</p>
-
-<!-- Typing effect for "Hi! I'm Tanmay Nalawade 👋" -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D70E&center=true&vCenter=true&repeat=true&lines=And+I+am+Tanmay+Nalawade+!+!+!👋" alt="Typing SVG" />
 </p>
 
 <!-- One liner quote's to choose from -->
