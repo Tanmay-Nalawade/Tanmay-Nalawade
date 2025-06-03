@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 
 <!-- Visitor count -->
-<!-- Visitor count -->
-<h2 align="center">📈 You are Visitor Number</h2>
 <p align="center">
+##📈 You are Visitor Number</h2>
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
 
@@ -37,10 +36,10 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
-<!-- <h2 align="center"> 👨‍💻 About Me</h2> -->
 
-## 👨‍💻 About Me
 <div align="center">
+## 👨‍💻 About Me
+
 
 <table width="100%">
   <tr>
