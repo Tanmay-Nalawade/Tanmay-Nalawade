@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 <!-- Visitor count -->
-<p align="center">
 ##📈 You are Visitor Number</h2>
+<p align="center">
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
 
@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 
+<h2 align="center"><strong>👨‍💻 About Me</strong></h2>
+
+
 <div align="center">
-## 👨‍💻 About Me
 
 
 <table width="100%">
