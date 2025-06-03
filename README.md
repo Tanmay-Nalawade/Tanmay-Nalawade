@@ -51,17 +51,17 @@ Here are some ideas to get you started:
 ### 🎓 Graduate Student  
 I’m currently pursuing my **Master’s in Data Science** at the **University of Arizona** — driven by a deep fascination with **deep learning** and the mysteries of the human brain.
 
----
+--
 
 ### 🧠 AI Enthusiast  
 Where others see black-box models, I see a *canvas* — a space to teach machines how to **think, learn, and evolve** like humans do.
 
----
+--
 
 ### 🛠️ Full-Stack Explorer  
 From crafting intuitive **frontend interfaces**, building robust **backend APIs**, to deploying **ML models** and managing **data pipelines** — I enjoy working across the stack to bring intelligent systems to life.
 
----
+--
 
 ### 🧩 Creative Technologist  
 Whether it’s **neural networks**, **generative AI**, or exploring the crossroads where *math meets creativity*, I’m always excited to push boundaries and explore what’s possible.
@@ -81,6 +81,7 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 💼 **LinkedIn**: [linkedin.com/in/tanmay-nalawade](https://www.linkedin.com/in/tanmay-nalawade/)  
 🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/Tanmay-Nalawade/)
 
+---
 
 <!-- Profile caspian image -->
 <p align="center">
