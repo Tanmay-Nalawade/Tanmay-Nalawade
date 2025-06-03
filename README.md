@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Profile cover image -->
 <p align="center">
-  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Tanmay%20Nalawade-3.png" alt="Hello world";">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Github%20main%20banner.png" alt="Hello world";">
 </p>
 
 <!-- Visitor count -->
