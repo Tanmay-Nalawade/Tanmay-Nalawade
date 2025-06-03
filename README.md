@@ -79,7 +79,7 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 
 📫 **Email**: [tanmaynalawade1@gmail.com](mailto:tanmaynalawade1@gmail.com) | [tanmaynalawade@arizona.edu](mailto:tanmaynalawade@arizona.edu)  
 💼 **LinkedIn**: [linkedin.com/in/tanmay-nalawade](https://www.linkedin.com/in/tanmay-nalawade/)  
-🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/Tanmay-Nalawade/)
+🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/u/Tanmay_Nalawade/)
 
 ---
 
