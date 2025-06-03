@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 
 <!-- Visitor count -->
-<h2 align="center" style="color:#2F855A; font-family:'League Spartan', 'Montserrat', sans-serif;">📈 And you are Visitor number:</h2>
-<p align="center"> 
+<!-- Visitor count -->
+<h2 align="center">📈 You are Visitor Number</h2>
+<p align="center">
   <img src="https://profile-counter.glitch.me/Tanmay-Nalawade/count.svg" />
 </p>
+
 
 <!-- One liner quote's to choose from -->
 <p align="center"> 
@@ -39,29 +41,29 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="100%">
-      
-<p align="center"> 🎓 <strong>Graduate Student</strong></p>
-I’m currently pursuing my <strong>Master’s in Data Science</strong> at the <strong>University of Arizona</strong> — driven by a deep fascination with <strong>deep learning</strong> and the mysteries of the human brain.
+    <td>
+
+### 🎓 Graduate Student  
+I’m currently pursuing my **Master’s in Data Science** at the **University of Arizona** — driven by a deep fascination with **deep learning** and the mysteries of the human brain.
 
 ---
 
-<p align="center"> 🧠 <strong>AI Enthusiast</strong></p>
-Where others see black-box models, I see a <em>canvas</em> — a space to teach machines how to <strong>think, learn, and evolve</strong> like humans do.
+### 🧠 AI Enthusiast  
+Where others see black-box models, I see a *canvas* — a space to teach machines how to **think, learn, and evolve** like humans do.
 
 ---
 
-<p align="center"> 🛠️ <strong>Full-Stack Explorer</strong></p>
-From crafting intuitive <strong>frontend interfaces</strong>, building robust <strong>backend APIs</strong>, to deploying <strong>ML models</strong> and managing <strong>data pipelines</strong> — I enjoy working across the stack to bring intelligent systems to life.
+### 🛠️ Full-Stack Explorer  
+From crafting intuitive **frontend interfaces**, building robust **backend APIs**, to deploying **ML models** and managing **data pipelines** — I enjoy working across the stack to bring intelligent systems to life.
 
 ---
 
-<p align="center"> 🧩 <strong>Creative Technologist</strong></p>  
-Whether it’s <strong>neural networks</strong>, <strong>generative AI</strong>, or exploring the crossroads where <em>math meets creativity</em>, I’m always excited to push boundaries and explore what’s possible.
+### 🧩 Creative Technologist  
+Whether it’s **neural networks**, **generative AI**, or exploring the crossroads where *math meets creativity*, I’m always excited to push boundaries and explore what’s possible.
 
-    </td>
+</td>
   </tr>
 </table>
 
