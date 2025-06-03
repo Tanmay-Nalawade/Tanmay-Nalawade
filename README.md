@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 <!-- One liner quote's to choose from -->
 <p align="center"> 
   <!-- Writing the code that powers tomorrow — whether it’s in the browser, the cloud, or a neural net.-->
-  <strong><em>💬 “A builder at heart — turning ideas into websites, insights, and intelligent systems.”</em></strong>
+  <strong><em>💬 “I explore the world as a builder at heart — turning ideas into websites, insights, and intelligent systems.”</em></strong>
   <!-- Fascinated by minds, obsessed with machines — building neural networks that blur the line.-->
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
+---
 
 <h2 align="center"><strong>👨‍💻 About Me</strong></h2>
 
@@ -70,6 +71,8 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 </table>
 
 </div>
+
+---
 
 <!-- Get in touch with me section-->
 <h2 align="center"><strong>🌐 Find Me Around the Web</strong></h2>
