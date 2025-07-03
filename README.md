@@ -100,11 +100,7 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 <!-- Centered and larger LeetCode stats card -->
 ## 📊 LeetCode Activity
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/Tanmay_Nalawade?theme=dark&font=Heebo&ext=heatmap" 
-    alt="LeetCode Stats" 
-    style="width: 100%; max-width: 1000px; height: auto;" 
-  />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Tanmay_Nalawade?theme=dark&font=Heebo&ext=activity)
 </p>
 
 
