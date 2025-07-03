@@ -97,7 +97,6 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 > ⚡ *Outside of academics, I’m a tech enthusiast at heart — always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Tanmay_Nalawade?theme=dark&font=baloo&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tanmay_Nalawade?theme=dark&font=Heebo&ext=heatmap)
 
 
