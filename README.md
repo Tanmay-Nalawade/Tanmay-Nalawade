@@ -103,9 +103,10 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
   <img 
     src="https://leetcard.jacoblin.cool/Tanmay_Nalawade?theme=dark&font=Heebo&ext=heatmap" 
     alt="LeetCode Stats" 
-    style="width: 1000px; height: 150px; object-fit: cover;" 
+    style="width: 100%; max-width: 1000px; height: auto;" 
   />
 </p>
+
 
 
 
