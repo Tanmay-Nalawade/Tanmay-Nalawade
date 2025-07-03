@@ -99,5 +99,7 @@ Whether it’s **neural networks**, **generative AI**, or exploring the crossroa
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Tanmay_Nalawade?theme=dark&font=baloo&extension=heatmap)
 
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 
 
