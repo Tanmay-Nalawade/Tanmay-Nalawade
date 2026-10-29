@@ -52,7 +52,7 @@ Eager to figure out the black-box models, to see a *canvas*:— a space to teach
 ---
 
 ### 🛠️ Full-Stack Explorer  
-From crafting intuitive **frontend interfaces**, building **backend APIs**, to deploying <!--**ML models**--> and managing **data pipelines**:— I enjoy working across the stack to bring applications to life.
+From crafting intuitive **frontend interfaces**, building **backend APIs**, to deploying **ML models** and managing **data pipelines**:— I enjoy working across the stack to bring applications to life.
  -->
 
 <!-- </td>
