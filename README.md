@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
----
 
 <!-- <h2 align="center"><strong>👨‍💻 About Me</strong></h2>
 
