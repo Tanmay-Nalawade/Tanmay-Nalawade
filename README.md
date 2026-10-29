@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center"><strong>👨‍💻 About Me</strong></h2>
+<!-- <h2 align="center"><strong>👨‍💻 About Me</strong></h2>
 
 
 <div align="center">
@@ -53,13 +53,13 @@ Eager to figure out the black-box models, to see a *canvas*:— a space to teach
 
 ### 🛠️ Full-Stack Explorer  
 From crafting intuitive **frontend interfaces**, building **backend APIs**, to deploying <!--**ML models**--> and managing **data pipelines**:— I enjoy working across the stack to bring applications to life.
+ -->
 
-
-</td>
+<!-- </td>
   </tr>
 </table>
 
-</div>
+</div> -->
 
 ---
 
