@@ -62,19 +62,20 @@ From crafting intuitive **frontend interfaces**, building **backend APIs**, to d
 
 ---
 
+
+<!-- Profile caspian image -->
+<p align="center">
+  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Generated%20File%20June%2001%2C%202025%20-%209_18PM.gif" alt="Hello world">
+</p>
+
+---
+
 <!-- Get in touch with me section-->
 <h2 align="center"><strong>🌐 Find Me Around the Web</strong></h2>
 
 📫 **Email**: [tanmaynalawade1@gmail.com](mailto:tanmaynalawade1@gmail.com) | [tanmaynalawade@arizona.edu](mailto:tanmaynalawade@arizona.edu)  
 💼 **LinkedIn**: [linkedin.com/in/tanmay-nalawade](https://www.linkedin.com/in/tanmay-nalawade/)  
 🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/u/Tanmay_Nalawade/)
-
----
-
-<!-- Profile caspian image -->
-<p align="center">
-  <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Generated%20File%20June%2001%2C%202025%20-%209_18PM.gif" alt="Hello world">
-</p>
 
 
 
