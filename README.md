@@ -29,6 +29,12 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
+---
+
+## 👀 P.S
+
+> ⚡ *Outside of academics, I’m a tech enthusiast, always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
+
 
 <!-- <h2 align="center"><strong>👨‍💻 About Me</strong></h2>
 
@@ -77,11 +83,4 @@ From crafting intuitive **frontend interfaces**, building **backend APIs**, to d
 💼 **LinkedIn**: [linkedin.com/in/tanmay-nalawade](https://www.linkedin.com/in/tanmay-nalawade/)  
 🧩 **LeetCode**: [leetcode.com/Tanmay-Nalawade](https://leetcode.com/u/Tanmay_Nalawade/)
 
-
-
----
-
-## 👀 P.S
-
-> ⚡ *Outside of academics, I’m a tech enthusiast, always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
 
