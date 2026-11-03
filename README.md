@@ -29,11 +29,6 @@ Here are some ideas to get you started:
   <!-- On a lifelong mission to teach silicon what it means to think.-->
 </p>
 
----
-
-## 👀 P.S
-
-> ⚡ *Outside of academics, I’m a tech enthusiast, always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
 
 
 <!-- <h2 align="center"><strong>👨‍💻 About Me</strong></h2>
@@ -73,6 +68,12 @@ From crafting intuitive **frontend interfaces**, building **backend APIs**, to d
 <p align="center">
   <img src="https://github.com/Tanmay-Nalawade/Tanmay-Nalawade/blob/main/Generated%20File%20June%2001%2C%202025%20-%209_18PM.gif" alt="Hello world">
 </p>
+
+---
+
+## 👀 P.S
+
+> ⚡ *Outside of academics, I’m a tech enthusiast, always exploring new tools, frameworks, and ideas to push the boundaries of what’s possible. I’m excited to contribute to projects that not only solve problems but also inspire innovation. Let’s build something impactful together.*
 
 ---
 
